@@ -1,3 +1,3 @@
 # git_lecture
-201702089 Heo YoungJin
+201702089HeoYoungJin
 kimjaehun
