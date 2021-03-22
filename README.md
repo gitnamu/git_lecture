@@ -1,2 +1,2 @@
 # git_lecture
-±èÀçÈÆ
+201701995 kimjaehun
