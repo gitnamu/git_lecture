@@ -1,5 +1,5 @@
 # git_lecture
+201701995 kimjaehun
 문범식 문범식 ansqjatlr	
 201702089HeoYoungJin
-kimjaehun
 201701982 김남호
